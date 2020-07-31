@@ -1,7 +1,6 @@
-## Hey there 👋,
+## Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I intend to be a part of an organization where I can constantly learn and develop my technical and management skills and make best use of it for the growth of the organization. 
-I look forward to establishing myself by adapting new technologies as well. 
+My name is Shreyansh Shandilya.I am a fourth-year student at SRM IST. I am currently persuing bachelors in computer science and will receive my degree in 2021.
 
 ### 📫 Where to find me
 
